@@ -1,0 +1,26 @@
+.go-back{
+    display: flex;
+    flex-direction: row;
+    color: #fff;
+    margin: 5rem 0 0 5rem;
+    cursor: pointer;
+    
+    transition: all 0.3s;
+}
+.go-back:hover{
+    transform: translateX(3px) ;
+    transform: translateY(-3px) ;
+    
+}
+
+
+.go-back-arrow{
+    width: 55px;
+    height: 44px;
+}
+
+.go-back-text{
+    padding-top: 11px;
+    padding-left: 13px;
+
+}
