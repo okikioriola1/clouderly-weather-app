@@ -4,7 +4,7 @@ import getCurrentDayForecast from '../helpers/getCurrentDayForecast'
 import getCurrentDayDetailedForecast from '../helpers/getCurrentDayDetailedForecast'
 import getUpcomingDaysForecast from '../helpers/getUpcomingDaysForecast'
 
-const BASE_URL = 'https://www.metaweather.com/api/location';
+const BASE_URL = 'https://corsanywhere.herokuapp.com/https://www.metaweather.com/api/location';
 // const CROSS_DOMAIN = 'https://the-ultimate-api-challenge.herokuapp.com';
 // const REQUEST_URL = `${CROSS_DOMAIN}/${BASE_URL}`;
 
